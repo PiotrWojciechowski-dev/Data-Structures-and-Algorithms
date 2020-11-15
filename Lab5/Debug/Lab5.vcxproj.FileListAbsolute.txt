@@ -1,0 +1,2 @@
+E:\C++ Projects\Lab5\Debug\Lab5.exe
+E:\C++ Projects\Lab5\Debug\Lab5.pdb

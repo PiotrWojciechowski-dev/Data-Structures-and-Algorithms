@@ -1,0 +1,2 @@
+E:\C++ Projects\CA1\Debug\CA1.exe
+E:\C++ Projects\CA1\Debug\CA1.pdb

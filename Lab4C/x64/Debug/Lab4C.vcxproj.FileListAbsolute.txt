@@ -1,0 +1,2 @@
+E:\C++ Projects\Lab4C\x64\Debug\Lab4C.exe
+E:\C++ Projects\Lab4C\x64\Debug\Lab4C.pdb

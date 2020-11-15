@@ -1,0 +1,10 @@
+Q1 The only difference between a binary operator and a function is the syntax when calling them.
+Arguements in an operator are given before and after the binary operator (+,-,*,/) while functions
+only take arguments to the right only.
+
+Q2 No you can't because when overloading operators one of the arguments must be of a class type,
+making it impossible to change the behaviour of + for intergers.
+
+Q3 We can't overload << or >> as operators because the first argument must be some io stream like
+cout or cin. If we overload them as members of a class the first argument would have to be the
+calling object of the class which is not what we want.

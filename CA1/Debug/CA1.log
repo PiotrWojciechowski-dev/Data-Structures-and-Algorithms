@@ -1,0 +1,7 @@
+﻿  MyIntVector.cpp
+E:\C++ Projects\CA1\MyIntVector.cpp(44,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ Projects\CA1\MyIntVector.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ Projects\CA1\MyIntVector.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ Projects\CA1\MyIntVector.cpp(88,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ Projects\CA1\MyIntVector.cpp(59): warning C4172: returning address of local variable or temporary
+  CA1.vcxproj -> E:\C++ Projects\CA1\Debug\CA1.exe

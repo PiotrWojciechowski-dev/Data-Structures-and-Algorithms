@@ -1,0 +1,2 @@
+D:\C++ Projects\3B2\Debug\3B2.exe
+D:\C++ Projects\3B2\Debug\3B2.pdb

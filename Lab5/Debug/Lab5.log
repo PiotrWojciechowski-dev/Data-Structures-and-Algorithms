@@ -1,0 +1,5 @@
+﻿  MyIntVector.cpp
+E:\C++ Projects\Lab5\MyIntVector.cpp(7,23): warning C4018: '<': signed/unsigned mismatch
+E:\C++ Projects\Lab5\MyIntVector.cpp(82): warning C4172: returning address of local variable or temporary: badreturn
+E:\C++ Projects\Lab5\MyIntVector.cpp(92): warning C4172: returning address of local variable or temporary
+  Lab5.vcxproj -> E:\C++ Projects\Lab5\Debug\Lab5.exe
