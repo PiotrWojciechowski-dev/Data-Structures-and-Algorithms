@@ -1,0 +1,2 @@
+E:\C++ Projects\LAB6A\Debug\LAB6A.exe
+E:\C++ Projects\LAB6A\Debug\LAB6A.pdb

@@ -1,0 +1,3 @@
+﻿  StackOfInt.cpp
+E:\C++ Projects\Lab7A1\StackOfInt.cpp(10,15): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Lab7A1.vcxproj -> E:\C++ Projects\Lab7A1\Debug\Lab7A1.exe

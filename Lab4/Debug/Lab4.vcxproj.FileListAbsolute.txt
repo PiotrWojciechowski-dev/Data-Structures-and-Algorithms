@@ -1,2 +1,4 @@
 D:\C++ Projects\Lab4\Debug\Lab4.exe
 D:\C++ Projects\Lab4\Debug\Lab4.pdb
+E:\C++ Projects\Lab4\Debug\Lab4.exe
+E:\C++ Projects\Lab4\Debug\Lab4.pdb
