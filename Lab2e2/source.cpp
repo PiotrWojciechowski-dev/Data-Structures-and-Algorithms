@@ -41,5 +41,6 @@ int main() {
     for (int i = 0; i < size; i++) {
         std::cout << a[i];
     }
+
     return 0;
 }

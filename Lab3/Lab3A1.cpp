@@ -50,7 +50,7 @@ int main() {
                 display(seats);
             }
         }
-        std::cout << "\nPlease enter the seat you want to reserve, for example (1A) or type '0' to end the program" << std::endl;
+        std::cout << "\nPlease enter the seat you want to reserve, for example (1A) or type 'q' to end the program" << std::endl;
         std::cin >> user_input;
         display(seats);
     }
@@ -61,7 +61,7 @@ bool checkSeat(char seats[][5], std::string input) {
     // Check char in string at locaiton 0 and 1
     // If any result in being true print invalid seat
     if (input[0] > '7' || input[0] < '1' || input[1]>'D' || input[1] < 'A') {
-        std::cout << "invalid seat\n";
+        std::cout << "\ninvalid seat\n";
         return false;
     }
 
@@ -77,7 +77,7 @@ bool checkSeat(char seats[][5], std::string input) {
             }
         }
     }
-    std::cout << "Seat taken";
+    std::cout << "\nSeat taken\n";
     return false;
 }
 // Set the seat that has been chosen with the value 'X'
